@@ -5,7 +5,7 @@ This is a image to quickly run AWS CLI through CI/CD pipelines without having to
 
 ## Docker links
 
--  [`latest` (Dockerfile)](https://github.com/nandogameiro/awscli/blob/master/Dockerfile) - AWS CLI Version 1.16.86  
+-  [`latest` (Dockerfile)](https://github.com/nandogameiro/awscli/blob/v1.0/Dockerfile) - AWS CLI Version 1.16.86  
 
 ## Usage
 
